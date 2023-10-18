@@ -1,0 +1,21 @@
+* {
+    background-color: beige;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-bottom: 2px solid lightgray;
+    padding: 20px;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    align-items: center;
+}
